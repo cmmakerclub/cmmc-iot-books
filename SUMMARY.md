@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [Test](test.md)
+* [Push Notification](test.md)
 
