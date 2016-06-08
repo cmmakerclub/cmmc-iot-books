@@ -23,7 +23,7 @@
 - เลือกบอร์ดให้ถูกต้อง และปิด Serial Monitors
 - เลือกเมนู Tools > ESP8266 Sketch Data Upload. เมื่ออัพโหลดเสร็จแล้วจะขึ้นว่า  `SPIFFS Image Uploaded`
 
-
+```
     #include <Arduino.h>
     #include <ESP8266WiFi.h>
     #include <ESP8266WebServer.h>
@@ -99,3 +99,4 @@
       //WiFi.begin(WIFI_SSID, WIFI_PASS);
     }
 
+```
