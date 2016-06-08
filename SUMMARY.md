@@ -10,4 +10,5 @@
    * [การติดต่อโดยใช้ WebSocket](esp82665-communication-websocket.md)
    * [การติดต่อโดยใช้ UDP](esp8266-communication-udp.md)
 * [ESP8266 WebServer](esp8266_webserver.md)
+   * Serve Static Files
 
