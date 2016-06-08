@@ -1,1 +1,6 @@
 /* CSS for website */
+
+.markdown-section table tr:nth-child(2n) {
+    background-color: #fff
+}
+
