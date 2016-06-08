@@ -1,8 +1,8 @@
 # File  System
 
 ## Table of Contents
-  * [Flash layout](#flash-layout)
   * [Uploading files to file system](#uploading-files-to-file-system)
+  * [Flash layout](#flash-layout)
 
 
 ## Uploading files to file system
