@@ -25,7 +25,6 @@
 
 ทดลองสร้างโค้ดตัวอย่างใน index.html
 
-
     <!DOCTYPE html>
     <html lang="en">
     <head></head>
@@ -34,9 +33,19 @@
     </body>
 
 - เลือกบอร์ดให้ถูกต้อง และปิด Serial Monitors
-- เลือกเมนู Tools > ESP8266 Sketch Data Upload. เมื่ออัพโหลดเสร็จแล้วจะขึ้นว่า  `SPIFFS Image Uploaded`
+- เลือกเมนู Tools > ESP8266 Sketch Data Upload. เมื่ออัพโหลดเสร็จแล้วจะขึ้นว่า  `SPIFFS Image Uploaded` 
+- เปิด Serial port ดูสถานะต่าง ๆ 
+  - AP (..........) คือชื่อ wifi ที่ปล่อยออกไปให้เราเชื่อมต่อ
+  - เข้าเว็บเบราเซอร์ด้วย IP : 192.168.4.1
+  - โค้ดตัวอย่างจะอ่านไฟล์ใน SPIFFS จะเจอ index.html ที่อัพโหลดลงไป
+  - แสดงสถานะการเชื่อมต่อของเราเข้ามาใน Serial port
 
+![](serialdebug.jpg)
 
+- ลองเข้า IP : 192.168.4.1 ผลที่ได้ดังภาพด้านล่าง
+
+![](web-hello.JPG)
+ 
 - อัพโหลดโค้ดตัวอย่าง
   
   [จากหน้านี้](webserver_serve_static_files.md)
