@@ -12,7 +12,7 @@
 - ดาวน์โหลดเครื่องมืออัพโหลดไฟล์: https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.2.0/ESP8266FS-0.2.0.zip.
 - แตกไฟล์เข้าไปที่โฟล์เดอร์ `<home_dir>Documents/Arduino/tools/ESP8266FS/tool/esp8266fs.jar`
 - Restart Arduino IDE
-- เปิดหรือสร้าง Arduino Sketch ขึ้นมา และเข้าไปโปรเจ็ค (choose Sketch > Show Sketch Folder) แล้วสร้างโฟล์เดอร์ data ขึ้นมา
+- เปิดหรือสร้าง Arduino Sketch ขึ้นมา และเข้าไปโปรเจ็ค (เลือกเมนู Sketch > Show Sketch Folder) แล้วสร้างโฟล์เดอร์ data ขึ้นมา
 - Create a directory named `data` and any files you want in the file system there
 - Make sure you have selected a board, port, and closed Serial Monitor
 - Select Tools > ESP8266 Sketch Data Upload. This should start uploading the files into ESP8266 flash file system. When done, IDE status bar will display `SPIFFS Image Uploaded` message.
