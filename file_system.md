@@ -1,4 +1,4 @@
-# File  Syste,
+# File  System
 
 ## Table of Contents
   * [Flash layout](#flash-layout)
