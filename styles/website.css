@@ -1,6 +1,9 @@
 /* CSS for website */
 
-.gist table tr {
+.markdown-section .gist .gist-data table tr {
+
+}
+.gist .gist-data table tr {
     background-color: #fff
 }
 
