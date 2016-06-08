@@ -9,13 +9,6 @@ title: File System
   * [Uploading files to file system](#uploading-files-to-file-system)
   * [Filesystem information structure](#filesystem-information-structure)
   * [Directory object (Dir)](#directory-object-dir)
-  * [File object](#file-object)
-    * [seek](#seek)
-    * [position](#position)
-    * [size](#size)
-    * [name](#name)
-    * [close](#close)
-
 
 ## Flash layout
 
