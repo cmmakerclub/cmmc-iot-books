@@ -23,6 +23,8 @@
 
 ![](data.jpg)
 
+
+
 - เลือกบอร์ดให้ถูกต้อง และปิด Serial Monitors
 - เลือกเมนู Tools > ESP8266 Sketch Data Upload. เมื่ออัพโหลดเสร็จแล้วจะขึ้นว่า  `SPIFFS Image Uploaded`
 
