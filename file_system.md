@@ -50,7 +50,6 @@
     server.handleClient();
   }
 
-
   void init_hardware()
   {
     Serial.begin(115200);
