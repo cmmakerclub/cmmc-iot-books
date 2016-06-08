@@ -6,7 +6,7 @@
    * [การติดต่อโดยใช้ UDP](esp8266-communication-udp.md)
 * [การต่อ WiFi ด้วย ESP8266](esp8266-connecting-wifi.md)
    * [การเชื่อมต่อเบื้องต้น](basic_wifi_connection.md)
-   * การเชื่อมต่อด้วย WiFi Connector
+   * [การเชื่อมต่อด้วย WiFi Connector](wifi_connector.md)
 * [ESP8266 WebServer](esp8266_webserver.md)
    * [Serve Static Files](webserver_serve_static_files.md)
    * [Basic WebServer](basic_webserver.md)
