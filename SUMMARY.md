@@ -8,4 +8,5 @@
 * [File System](file_system.md)
 * [การติดต่อสื่อสารกับ ESP8266](esp8266-communication.md)
    * [การติดต่อโดยใช้ UDP](esp8266-communication-udp.md)
+       * การติดต่อโดยใช้ WebSocket
 
