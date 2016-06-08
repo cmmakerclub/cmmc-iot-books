@@ -3,8 +3,6 @@
 ## Table of Contents
   * [Flash layout](#flash-layout)
   * [Uploading files to file system](#uploading-files-to-file-system)
-  * [Filesystem information structure](#filesystem-information-structure)
-  * [Directory object (Dir)](#directory-object-dir)
 
 
 ## Uploading files to file system
