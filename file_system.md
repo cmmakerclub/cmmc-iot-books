@@ -5,7 +5,7 @@
   * [Flash layout](#flash-layout)
 
 
-## การอัพโหลดไฟล์ขึ้น ESP8266 
+## การอัพโหลดไฟล์ขึ้น ESP8266 โดยใช้ ESP8266FS
 
 *ESP8266FS* is a tool which integrates into the Arduino IDE. It adds a menu item to *Tools* menu for uploading the contents of sketch data directory into ESP8266 flash file system.
 
