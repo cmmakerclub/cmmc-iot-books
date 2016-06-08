@@ -10,7 +10,7 @@
 *ESP8266FS* is a tool which integrates into the Arduino IDE. It adds a menu item to *Tools* menu for uploading the contents of sketch data directory into ESP8266 flash file system.
 
 - ดาวน์โหลดเครื่องมืออัพโหลดไฟล์: https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.2.0/ESP8266FS-0.2.0.zip.
-- และแตกไฟล์เข้าไปที่โฟล์เดอร์ `<home_dir>Documents//Arduino/tools/ESP8266FS/tool/esp8266fs.jar`
+- และแตกไฟล์เข้าไปที่โฟล์เดอร์ `<home_dir>Documents/Arduino/tools/ESP8266FS/tool/esp8266fs.jar`
 - Restart Arduino IDE
 - Open a sketch (or create a new one and save it)
 - Go to sketch directory (choose Sketch > Show Sketch Folder)
