@@ -1,5 +1,3 @@
-# File System
-
 ---
 title: File System
 ---
