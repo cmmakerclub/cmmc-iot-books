@@ -1,6 +1,6 @@
 /* CSS for website */
 
-.markdown-section table tr:nth-child(2n) {
+.gist table tr {
     background-color: #fff
 }
 
