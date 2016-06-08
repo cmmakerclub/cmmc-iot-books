@@ -23,7 +23,15 @@
 
 ![](data.jpg)
 
+ทดลองสร้างโค้ดตัวอย่างใน index.html
 
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head></head>
+    <body>
+        <h1>Hello ESPresso</h1>
+    </body>
 
 - เลือกบอร์ดให้ถูกต้อง และปิด Serial Monitors
 - เลือกเมนู Tools > ESP8266 Sketch Data Upload. เมื่ออัพโหลดเสร็จแล้วจะขึ้นว่า  `SPIFFS Image Uploaded`
