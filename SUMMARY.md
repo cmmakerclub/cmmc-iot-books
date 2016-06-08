@@ -10,6 +10,7 @@
 * [ESP8266 WebServer](esp8266_webserver.md)
    * [Basic WebServer](basic_webserver.md)
        * [WebServer ใน AP Mode](webserver_ap_mode.md)
+       * WebServer ใน STA Mode
    * [Serve Static Files](webserver_serve_static_files.md)
 * [ESPert.io](chapter1.md)
 * [การตั้งค่า Push Notification ใน ESPert.io](pushnotification_md.md)
