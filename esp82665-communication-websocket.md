@@ -2,7 +2,7 @@
 
 เลือกเมนู Sketch > Include Library > Manage Libraries
 
-![](Screen Shot 2559-06-08 at 3.14.55 PM.png)
+![](arduino-manage-libraries.png)
 
 พิมพ์ WebSocket และเลือกของ Markus Sattier และกด Install
 
