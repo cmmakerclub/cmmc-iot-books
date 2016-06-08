@@ -55,7 +55,6 @@
     }
   }
 
-
   void init_webserver() {
     server.serveStatic("/", SPIFFS, "/");
     server.begin();
