@@ -4,5 +4,5 @@
 
 ![](arduino-manage-libraries.png)
 
-พิมพ์ CMMC Connector และ ArduinoJson และกด Install
+ติดตั้ง CMMC Connector และ ArduinoJson และกด Install
 ![](install-cmmc-connector.png)
