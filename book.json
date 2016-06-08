@@ -1,7 +1,3 @@
 {
-  "plugins": ["gist", "addcssjs"],
-  "pluginsConfig": {
-  "addcssjs": {
-    "css": ["css/custom.css"]
-  }
+  "plugins": ["gist"]
 }
