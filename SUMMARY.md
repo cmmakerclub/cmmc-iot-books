@@ -10,5 +10,4 @@
    * การติดต่อโดยใช้ WebSocket
    * การติดต่อโดยใช้ WebSocket
    * [การติดต่อโดยใช้ UDP](esp8266-communication-udp.md)
-       * การติดต่อโดยใช้ WebSocket
 
