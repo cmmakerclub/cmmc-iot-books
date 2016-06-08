@@ -18,7 +18,7 @@
 - Restart Arduino IDE
 - เปิดหรือสร้าง Arduino Sketch ขึ้นมา และเข้าไปโปรเจ็ค (เลือกเมนู Sketch > Show Sketch Folder) 
 
-![](show-sketch.jpg)
+![show-sketch-folder](show-sketch.jpg)
 
 - สร้างโฟล์เดอร์ `data` ขึ้นมา และเอาไฟล์ที่ต้องการอัพโหลดเข้าไปใน ESPresso Lite วางไว้ใน `data`
 - เลือกบอร์ดให้ถูกต้อง และปิด Serial Monitors
