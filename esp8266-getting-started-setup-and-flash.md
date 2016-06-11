@@ -24,5 +24,7 @@
   
   * เลือก Type เป็น Contributed จะแสดง Boards ของ ESP8266 เลือก Boards และกด Install 
   ![](https://i2.wp.com/farm1.staticflickr.com/309/19170105272_58b264f65a_z.jpg?zoom=2&resize=474%2C265&ssl=1)
-แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 100 MB และติดตั้งให้เอง
-![](https://i2.wp.com/farm1.staticflickr.com/277/18988384088_fd7d378d33_z.jpg?zoom=2&resize=474%2C267&ssl=1)
+  แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 100 MB และติดตั้งให้เอง
+  ![](https://i2.wp.com/farm1.staticflickr.com/277/18988384088_fd7d378d33_z.jpg?zoom=2&resize=474%2C267&ssl=1)
+  เมื่อเราติดตั้งบอร์ด ESP8266 เสร็จเรียบร้อยแล้ว ให้ปิดโปรแกรม Arduino IDE ก่อน แล้วจึงเปิดขึ้นมาใหม่
+* เมื่อเปิดโปรแกรม Arduino IDE ขึ้นมาใหม่แล้ว ให้ลองเลือกไปที่ Menu Tools >> Board: “…..” ซึ่งจะพบว่า มี Menu สำหรับเลือกใช้งาน ESP8266 กับ Arduino IDE ขึ้นมาให้เลือกใช้งานแล้วครับ
