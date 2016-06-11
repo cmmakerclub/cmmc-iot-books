@@ -22,7 +22,6 @@
   จะขึ้นหน้าต่าง Boards Manager
   ![](https://i2.wp.com/farm4.staticflickr.com/3903/19175678255_1cbc37ca20_z.jpg?zoom=2&resize=474%2C264&ssl=1)
   
-  * เลือก Type เป็น Contributed จะแสดง Boards ของ ESP8266 เลือก Boards และกด Install แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 100 MB และติดตั้งให้เอง
-
+  * เลือก Type เป็น Contributed จะแสดง Boards ของ ESP8266 เลือก Boards และกด Install 
   ![](https://i2.wp.com/farm1.staticflickr.com/309/19170105272_58b264f65a_z.jpg?zoom=2&resize=474%2C265&ssl=1)
-  
+  แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 100 MB และติดตั้งให้เอง
