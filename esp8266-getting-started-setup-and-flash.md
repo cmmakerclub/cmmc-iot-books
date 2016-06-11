@@ -4,5 +4,4 @@
 สำหรับการติดตั้ง Arduino IDE บน Windows จะมีแบบให้เลือกทั้ง แตกไฟล์ใช้ได้เลย (ZIP file for non admin install)หรือ ติดตั้งเหมือน โปรแกรมทั่วๆไป (Installer) หากติดตั้งเรียบร้อยแล้ว ให้เปิด Arduino IDE ขึ้นมาจะได้หน้าตาแบบนี้เลยครับ![](https://i1.wp.com/farm1.staticflickr.com/285/18984844170_15ffb0b09c_z.jpg?zoom=2&resize=474%2C546&ssl=1)
 
 2. ติดตั้ง Broad ESP8266 ลงบน Arduino IDE
-
-– กดเลือก Menu ไปที่ File >> Preferences
+  – กดเลือก Menu ไปที่ File >> Preferences
