@@ -41,3 +41,4 @@
 
 1.  Generic ESP8266 Module ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
 2. ESP8266 NODE-MCU ![](https://i2.wp.com/farm1.staticflickr.com/424/18555742663_65ef30bfd6_z.jpg?zoom=2&resize=474%2C329&ssl=1)
+3. 3. NodeMCU V2 ![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
