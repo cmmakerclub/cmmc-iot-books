@@ -18,4 +18,6 @@
 
   * ไปที่ Menu Tools >> Boar: “Arduino…” >> Board Manager…
    ![](https://i1.wp.com/farm4.staticflickr.com/3956/18553130984_b97117b088_z.jpg?zoom=2&resize=474%2C521&ssl=1)
+
 จะขึ้นหน้าต่าง Boards Manager
+![](https://i2.wp.com/farm4.staticflickr.com/3903/19175678255_1cbc37ca20_z.jpg?zoom=2&resize=474%2C264&ssl=1)
