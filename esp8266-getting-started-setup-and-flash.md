@@ -31,9 +31,8 @@
 
 ![บอร์ด esp8266 เพิ่มขึ้นมาาก Board Manager](https://i2.wp.com/farm4.staticflickr.com/3955/19170261622_c39a49ef73_z.jpg?zoom=2&resize=474%2C552&ssl=1)
 
-  – ซึ่ง หมวดของ ESP8266 Modules นั้นจะมีบอร์ดให้เลือกใช้งานอยู่ด้วยกัน 3 บอร์ด ได้แก่
-
-  – Generic ESP8266 Module >> บอร์ด ESP8266 ที่ใช้งานทั้วไป หรือ บอร์ดที่สร้างขึ้นเอง
+  - ซึ่ง หมวดของ ESP8266 Modules นั้นจะมีบอร์ดให้เลือกใช้งานอยู่ด้วยกัน 3 บอร์ด ได้แก่
+  - Generic ESP8266 Module >> บอร์ด ESP8266 ที่ใช้งานทั้วไป หรือ บอร์ดที่สร้างขึ้นเอง
   – Olimex MOD-WIFI-ESP8266(-DEV) >> บอร์ด ESP8366 ที่บริษัท Olimex เป็นผู้สร้าง
   – NodeMCU (ESP8266 ESP-12 Module) >> บอร์ด ESP8266 ที่เป็นบอร์ด NodeMCU
 
