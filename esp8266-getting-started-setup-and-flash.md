@@ -11,4 +11,5 @@
   
     ในส่วนของ Additional Board Manger  บทความนี้ผมจะใช้ Boards Manager ของ Community ESP8266
 
-  * ใส่ URL >> ลงใน Addition Board Manager URLs: ดังนี้
+  * ใส่ URL >> ลงใน Addition Board Manager URLs: ดังนี้ http://arduino.esp8266.com/package_esp8266com_index.json
+  ![](https://i2.wp.com/farm1.staticflickr.com/513/19179168771_4776115428_z.jpg?zoom=2&resize=474%2C313&ssl=1)
