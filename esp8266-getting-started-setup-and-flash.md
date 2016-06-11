@@ -13,3 +13,7 @@
 
   * ใส่ URL >> ลงใน Addition Board Manager URLs: ดังนี้ http://arduino.esp8266.com/package_esp8266com_index.json
   ![](https://i2.wp.com/farm1.staticflickr.com/513/19179168771_4776115428_z.jpg?zoom=2&resize=474%2C313&ssl=1)
+  
+  จากนั้นกด OK
+
+  * เสร็จแล้วไปที่ Menu Tools >> Boar: “Arduino…” >> Board Manager…
