@@ -7,4 +7,4 @@
   * กดเลือก Menu ไปที่ **File** >> **Preferences**
 ![](https://i1.wp.com/farm4.staticflickr.com/3765/19166802792_494dd9b621_z.jpg?zoom=2&resize=474%2C541&ssl=1)
   * จะขึ้นหน้าต่าง Preferences  ให้สังเกตุในช่อง Additional Board Manger URLs:
-![](https://i2.wp.com/farm1.staticflickr.com/277/19179043611_92157254b2_z.jpg?zoom=2&resize=474%2C314&ssl=1)
+  ![](https://i2.wp.com/farm1.staticflickr.com/277/19179043611_92157254b2_z.jpg?zoom=2&resize=474%2C314&ssl=1)
