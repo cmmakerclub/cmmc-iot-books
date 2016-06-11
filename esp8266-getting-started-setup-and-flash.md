@@ -11,4 +11,4 @@
   
   ในส่วนของ Additional Board Manger  บทความนี้ผมจะใช้ Boards Manager ของ Community ESP8266
 
-– โดยใส่ URL >> ลงใน Addition Board Manager URLs: ดังนี้
+  * โดยใส่ URL >> ลงใน Addition Board Manager URLs: ดังนี้
