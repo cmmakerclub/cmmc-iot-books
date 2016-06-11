@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * Getting Started
+   * การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 1 – ติดตั้ง Arduino IDE กับ ESP8266 พร้อม flash โปรแกรม)
 * [การเชื่อมต่อ WiFi ด้วย ESP8266](esp8266-connecting-wifi.md)
    * [การเชื่อมต่อเบื้องต้น](basic_wifi_connection.md)
    * [การเชื่อมต่อด้วย WiFi Connector](wifi_connector.md)
