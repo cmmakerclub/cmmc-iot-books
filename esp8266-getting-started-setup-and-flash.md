@@ -29,4 +29,4 @@
   เมื่อเราติดตั้งบอร์ด ESP8266 เสร็จเรียบร้อยแล้ว ให้ปิดโปรแกรม Arduino IDE ก่อน แล้วจึงเปิดขึ้นมาใหม่
   * เมื่อเปิดโปรแกรม Arduino IDE ขึ้นมาใหม่แล้ว ให้ลองเลือกไปที่ Menu Tools >> Board: “…..” ซึ่งจะพบว่า มี Menu สำหรับเลือกใช้งาน ESP8266 กับ Arduino IDE ขึ้นมาให้เลือกใช้งานแล้วครับ
 
-![](https://i2.wp.com/farm4.staticflickr.com/3955/19170261622_c39a49ef73_z.jpg?zoom=2&resize=474%2C552&ssl=1)
+![บอร์ด esp8266 เพิ่มขึ้นมาใน Board Manager](https://i2.wp.com/farm4.staticflickr.com/3955/19170261622_c39a49ef73_z.jpg?zoom=2&resize=474%2C552&ssl=1)
