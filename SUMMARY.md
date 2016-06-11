@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Getting Started
 * [การเชื่อมต่อ WiFi ด้วย ESP8266](esp8266-connecting-wifi.md)
    * [การเชื่อมต่อเบื้องต้น](basic_wifi_connection.md)
    * [การเชื่อมต่อด้วย WiFi Connector](wifi_connector.md)
