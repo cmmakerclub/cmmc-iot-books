@@ -26,4 +26,3 @@
 
   ![](https://i2.wp.com/farm1.staticflickr.com/309/19170105272_58b264f65a_z.jpg?zoom=2&resize=474%2C265&ssl=1)
   
-  พอกด Install 
