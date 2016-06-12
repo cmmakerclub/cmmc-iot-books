@@ -12,7 +12,7 @@
 - ดาวน์โหลดเครื่องมืออัพโหลดไฟล์: https://github.com/esp8266/arduino-esp8266fs-plugin/releases/download/0.2.0/ESP8266FS-0.2.0.zip.
 - แตกไฟล์เข้าไปที่โฟล์เดอร์ `<home_dir>Documents/Arduino/tools/ESP8266FS/tool/esp8266fs.jar`
 
-![esp8266-fs-tools](esp8266-fs-tools.JPG)
+![esp8266-fs-tools](images/esp8266-fs-tools.JPG)
 
 - Restart Arduino IDE
 - เปิดหรือสร้าง Arduino Sketch ขึ้นมา และเข้าไปโปรเจ็ค (เลือกเมนู Sketch > Show Sketch Folder) 
