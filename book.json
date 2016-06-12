@@ -1,3 +1,8 @@
 {
-  "plugins": ["gist", "ga"]
+  "plugins": ["gist", "ga"],
+     "pluginsConfig": {
+        "ga": {
+            "token": "UA-XXXX-Y"
+        }
+    }
 }
