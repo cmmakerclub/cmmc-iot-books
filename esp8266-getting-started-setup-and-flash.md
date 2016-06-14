@@ -1,4 +1,4 @@
-# การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 1 – ติดตั้ง Arduino IDE กับ ESP8266)
+# การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 1 – ติดตั้ง Arduino IDE กับ ESP8266และ โปรแกรมตัวอย่าง Library)
 
 1.ติดตั้ง Arduino IDE เวอร์ชั้น 1.6.5 หรือ ใหม่กว่า โดย Arduino IDE สามารถ Support  Windows Mac OS X Linux ทั้ง 32bit และ 64 bit ซึ่งหา Download ตัวติดตั้งได้จาก [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
 
