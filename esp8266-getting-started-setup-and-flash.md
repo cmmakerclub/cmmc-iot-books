@@ -61,12 +61,19 @@
 ซึ่งถ้าหากเรามีบอร์ด ESP8266 ที่รองรับ โมดูล ทั้ง 3 บอร์ด ก็สามารถใช้งานได้เลย
 บอร์ดรุ่นต่าง ๆ ที่ใช้งานโดยทั่วๆไป ก็มีดังนี้
 
-1.  Generic ESP8266 Module
+1.Generic ESP8266 Module
 
  ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
 
-2. ESPresso Lite 1.0 และ 2.0
+2.ESPresso Lite 1.0 และ 2.0
 
-3. NodeMCU 
+![](images/introduction13.png)
+![](images/introduction14.JPG)
+
+3.NodeMCU 
+
  ![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
 
+4.WeMos
+
+![](introduction15.JPG)
