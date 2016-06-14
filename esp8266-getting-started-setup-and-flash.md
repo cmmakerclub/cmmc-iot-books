@@ -37,27 +37,36 @@
   
   ![](images/introduction9.JPG)
   
-  * จะแสดง Boards ของ ESP8266 เลือกเวอร์ชัน 2.1.0 หรือใหม่กว่าในอนาคต Boards และกด Install 
+  * จะแสดง Boards ของ ESP8266 เลือกเวอร์ชัน 2.2.0 หรือใหม่กว่าในอนาคต Boards และกด Install 
   * 
   ![](images/introduction10.JPG)
   
   แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 150 MB และติดตั้งให้เอง
   
   ![](images/introduction11.JPG)
+  
   เมื่อเราติดตั้งบอร์ด ESP8266 เสร็จเรียบร้อยแล้ว ให้ปิดโปรแกรม Arduino IDE ก่อน แล้วจึงเปิดขึ้นมาใหม่
   * เมื่อเปิดโปรแกรม Arduino IDE ขึ้นมาใหม่แล้ว ให้ลองเลือกไปที่ Menu Tools >> Board: “…..” ซึ่งจะพบว่า มี Menu สำหรับเลือกใช้งาน ESP8266 กับ Arduino IDE ขึ้นมาให้เลือกใช้งานแล้วครับ
 
-![บอร์ด esp8266 เพิ่มขึ้นมาาก Board Manager](https://i2.wp.com/farm4.staticflickr.com/3955/19170261622_c39a49ef73_z.jpg?zoom=2&resize=474%2C552&ssl=1)
+![](images/introduction12.JPG)
 
-  - ซึ่ง หมวดของ ESP8266 Modules นั้นจะมีบอร์ดให้เลือกใช้งานอยู่ด้วยกัน 3 บอร์ด ได้แก่
+  ซึ่ง หมวดของ ESP8266 Modules นั้นจะมีบอร์ดให้เลือกใช้งานอยู่ด้วยกันหลายบอร์ด ที่มีจำหน่ายทั่ว ๆ ไป เช่น
+  
   - Generic ESP8266 Module >> บอร์ด ESP8266 ที่ใช้งานทั้วไป หรือ บอร์ดที่สร้างขึ้นเอง
+  - ESPresso Lite 1.0 และ 2.0 >> บอร์ด ESP8266 ของ Espert และ Chiangmai Maker Club 
   - Olimex MOD-WIFI-ESP8266(-DEV) >> บอร์ด ESP8366 ที่บริษัท Olimex เป็นผู้สร้าง
   - NodeMCU (ESP8266 ESP-12 Module) >> บอร์ด ESP8266 ที่เป็นบอร์ด NodeMCU
+  - WeMos D1 >> บอร์ด ESP8266 ที่เป็นบอร์ด wemos
 
 ซึ่งถ้าหากเรามีบอร์ด ESP8266 ที่รองรับ โมดูล ทั้ง 3 บอร์ด ก็สามารถใช้งานได้เลย
 บอร์ดรุ่นต่าง ๆ ที่ใช้งานโดยทั่วๆไป ก็มีดังนี้
 
-1.  Generic ESP8266 Module ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
-2. ESP8266 NODE-MCU ![](https://i2.wp.com/farm1.staticflickr.com/424/18555742663_65ef30bfd6_z.jpg?zoom=2&resize=474%2C329&ssl=1)
-3. NodeMCU V2  ![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
+1.  Generic ESP8266 Module
+
+ ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
+
+2. ESPresso Lite 1.0 และ 2.0
+
+3. NodeMCU 
+ ![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
 
