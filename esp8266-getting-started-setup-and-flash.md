@@ -1,4 +1,4 @@
-# การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 1 – ติดตั้ง Arduino IDE กับ ESP8266และ โปรแกรมตัวอย่าง Library)
+# ติดตั้ง Arduino IDE กับ ESP8266และ โปรแกรมตัวอย่าง Library
 
 **ขั้นตอนการติดตั้ง Arduino IDE กับ ESP8266**
 
