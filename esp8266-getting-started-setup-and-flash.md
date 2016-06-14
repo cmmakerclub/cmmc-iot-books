@@ -1,18 +1,19 @@
 # การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 1 – ติดตั้ง Arduino IDE กับ ESP8266 พร้อม flash โปรแกรม)
 
-
-1. ติดตั้ง Arduino IDE เวอร์ชั้น 1.6.5 หรือ ใหม่กว่า โดย Arduino IDE สามารถ Support  Windows Mac OS X Linux ทั้ง 32bit และ 64 bit ซึ่งหา Download ตัวติดตั้งได้จาก [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
+1.ติดตั้ง Arduino IDE เวอร์ชั้น 1.6.5 หรือ ใหม่กว่า โดย Arduino IDE สามารถ Support  Windows Mac OS X Linux ทั้ง 32bit และ 64 bit ซึ่งหา Download ตัวติดตั้งได้จาก [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
 
 ![](images/introduction1.JPG)
  
 
 สำหรับการติดตั้ง Arduino IDE บน Windows จะมีแบบให้เลือกทั้ง แตกไฟล์ใช้ได้เลย (ZIP file for non admin install)หรือ ติดตั้งเหมือน โปรแกรมทั่วๆไป (Installer) หากติดตั้งเรียบร้อยแล้ว ให้เปิด Arduino IDE ขึ้นมาจะได้หน้าตาแบบนี้เลยครับ
-![](images/introduction2.JPG)
-![](3.JPG)
 
-2. ติดตั้ง Broad ESP8266 ลงบน Arduino IDE
+![](images/introduction2.png)
+
+![](images/introduction3.JPG)
+
+2.ติดตั้ง Broad ESP8266 ลงบน Arduino IDE
   * กดเลือก Menu ไปที่ **File** >> **Preferences**
-![](https://i1.wp.com/farm4.staticflickr.com/3765/19166802792_494dd9b621_z.jpg?zoom=2&resize=474%2C541&ssl=1)
+
   * จะขึ้นหน้าต่าง Preferences  ให้สังเกตุในช่อง Additional Board Manger URLs:
   ![](https://i2.wp.com/farm1.staticflickr.com/277/19179043611_92157254b2_z.jpg?zoom=2&resize=474%2C314&ssl=1)
   
@@ -49,3 +50,4 @@
 1.  Generic ESP8266 Module ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
 2. ESP8266 NODE-MCU ![](https://i2.wp.com/farm1.staticflickr.com/424/18555742663_65ef30bfd6_z.jpg?zoom=2&resize=474%2C329&ssl=1)
 3. NodeMCU V2  ![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
+
