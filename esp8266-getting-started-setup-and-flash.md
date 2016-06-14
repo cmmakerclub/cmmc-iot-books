@@ -65,7 +65,7 @@
 
  ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
 
-2.ESPresso Lite 1.0 และ 2.0
+2.ESPresso Lite 1.0 และ 2.0 
 
 ![](images/introduction13.png)
 ![](images/introduction14.JPG)
@@ -76,4 +76,17 @@
 
 4.WeMos
 
-![](introduction15.JPG)
+![](images/introduction15.JPG)
+
+เพียงเท่านี้เราก็สามารถใช้งาน Board ESP8266 บน Arduino IDE ได้ครบแล้วครับ
+
+ปล.บอร์ด ESPresso Lite V2.0 สามารถสั่งซื้อออนไลน์ได้จากเว็บไซต์ของเชียงใหม่เมกเกอร์คลับ [คลิ๊ก](http://www.cmmcshop.com/category)
+และ สามารถซื้อด้วยตนเอง 
+
+กทม.
+
+Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](https://maps.here.com/directions/mix/mylocation/PINN-Creative-Space:13.759915,100.569588?map=13.75991,100.56959,15,normal&fb_locale=th_TH)
+
+เชียงใหม่ 
+
+ชมรมเชียงใหม่เมกเกอร์คลับ 81/21-25 ถ.อารักษ์ ต.สุเทพ อ.เมืองเชียงใหม่ จ.เชียงใหม่ 50200 [Map](https://www.google.com/maps?ll=18.783329,98.978965&z=19&t=m&hl=th&gl=TH&mapclient=embed&cid=5283136291489251162)
