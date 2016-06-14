@@ -1,5 +1,7 @@
 # การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 1 – ติดตั้ง Arduino IDE กับ ESP8266และ โปรแกรมตัวอย่าง Library)
 
+**ขั้นตอนการติดตั้ง Arduino IDE กับ ESP8266**
+
 1.ติดตั้ง Arduino IDE เวอร์ชั้น 1.6.5 หรือ ใหม่กว่า โดย Arduino IDE สามารถ Support  Windows Mac OS X Linux ทั้ง 32bit และ 64 bit ซึ่งหา Download ตัวติดตั้งได้จาก [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
 
 ![](images/introduction1.JPG)
@@ -83,10 +85,13 @@
 ปล.บอร์ด ESPresso Lite V2.0 สามารถสั่งซื้อออนไลน์ได้จากเว็บไซต์ของเชียงใหม่เมกเกอร์คลับ [คลิ๊ก](http://www.cmmcshop.com/category)
 และ สามารถซื้อด้วยตนเอง 
 
-กทม.
-
+กทม. :
 Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](https://maps.here.com/directions/mix/mylocation/PINN-Creative-Space:13.759915,100.569588?map=13.75991,100.56959,15,normal&fb_locale=th_TH)
 
-เชียงใหม่ 
-
+เชียงใหม่ :
 ชมรมเชียงใหม่เมกเกอร์คลับ 81/21-25 ถ.อารักษ์ ต.สุเทพ อ.เมืองเชียงใหม่ จ.เชียงใหม่ 50200 [Map](https://www.google.com/maps?ll=18.783329,98.978965&z=19&t=m&hl=th&gl=TH&mapclient=embed&cid=5283136291489251162)
+
+
+**ขั้นตอนการติดตั้งโปรแกรมตัวอย่าง Library**
+
+1.ใช้โปรแกรมตัวอย่างจาก Library ของ ESPert ในการ
