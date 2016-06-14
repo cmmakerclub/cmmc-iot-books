@@ -94,4 +94,4 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 **ขั้นตอนการติดตั้งโปรแกรมตัวอย่าง Library**
 
-1.ใช้โปรแกรมตัวอย่างจาก Library ของ ESPert ในการ
+1.ทดลองลงโปรแกรมตัวอย่างจาก Library ของ ESPert
