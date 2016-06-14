@@ -15,6 +15,7 @@
 
 2.ติดตั้ง Broad ESP8266 ลงบน Arduino IDE
   * กดเลือก Menu ไปที่ **File** >> **Preferences**
+
   
 ![](images/introduction4.png)
 
