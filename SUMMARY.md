@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 1 – ติดตั้ง Arduino IDE กับ ESP8266)](esp8266-getting-started-setup-and-flash.md)
    * การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 2 – การ flash โปรแกรมลงบน ESP8266 ใช้บอร์ด ESPresso Lite V2.0)
-   * [การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 2 – การ flash โปรแกรมลงบน ESP8266 ใช้บอร์ด ESPresso Lite V2.0)](02__flash___esp8266__espresso_lite_v20.md)
+   * [การเริ่มต้นใช้งาน ESP8266 ผ่านทาง Arduino IDE (ตอนที่ 3 – การ flash โปรแกรมลงบน ESP8266 ใช้บอร์ด ESPresso Lite V2.0)](02__flash___esp8266__espresso_lite_v20.md)
 * [การเชื่อมต่อ WiFi ด้วย ESP8266](esp8266-connecting-wifi.md)
    * [การเชื่อมต่อเบื้องต้น](basic_wifi_connection.md)
    * [การเชื่อมต่อด้วย WiFi Connector](wifi_connector.md)
