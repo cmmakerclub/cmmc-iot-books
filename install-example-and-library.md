@@ -66,7 +66,7 @@
 * HttpClient by Adrian McEwen (current version 2.2.0)
 * PubSubClient by Nick O'Leary (current version 2.6.0)
 
-| Library | by | current version |
+| Library           | by       | current version |
 | --                | --       | --    |
 | Adafruit NeoPixel | Adafruit | 1.0.5 |
 | ArduinoJson | Benoit Blanchon | 5.5.0 |
