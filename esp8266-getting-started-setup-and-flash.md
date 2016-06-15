@@ -110,7 +110,8 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 4. sfdsf
   5. VVHVHVGHVGH
   6. BJBHJBHJ
-  7. 
+7. SDFSDFSD
+
 
 **1.การเพิ่ม Library โดยวิธี Manage Libraries...**
 เป็นการเพิ่ม Library โดยตรงจากเซิฟเวอร์ของทาง Arduino ซึ่ง Manage Libraries จากผู้พัฒนาก่อนจะถูกอัพขึ้นเซิฟเวอร์ของ Arduino จะมีคนคอยตรวจสอบก่อนเสมอ จึงเป็นสากลมากกว่าการลงแบบ Manual และใช้งานได้จริง
