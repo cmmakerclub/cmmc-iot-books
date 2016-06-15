@@ -1,5 +1,5 @@
 {
-  "plugins": ["gist", "ga"],
+  "plugins": ["gist", "ga", "image-captions"],
    "pluginsConfig": {
       "ga": {  "token": "UA-XXXX-Y" }
     }
