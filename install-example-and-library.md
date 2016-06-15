@@ -74,7 +74,7 @@
 | ESP8266 Oled Driver for SSD1306 | Daniel Eichborn | 3.0.0    |
 | DHT sensor library              | Adafruit        | 1.2.3    |
 | HttpClient                      | Adrian McEwen   | 2.2.0    |
-| PubSubClient                    | Adrian McEwen   | 2.2.0    |
+| PubSubClient                    | Nick O'Leary    | 2.6.0    |
 
 
 ควรอัพเดท Board Manager และ Library ให้เป็นเวอร์ชันล่าสุดอยู่เสมอ
