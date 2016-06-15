@@ -4,7 +4,7 @@
 
 1.ในการทดสอบครั้งนี้ผมใช้ ESPresso Lite V2.0 ของ Espert
 
-![_CAPTION_ HELLO](images/introduction14.JPG)
+![บอร์ด ESPresso Lite](images/introduction14.JPG)
 
 2.ตัว flash ใช้ FT232 เชื่อมต่อแบบ UART ถ้าใช้ บอร์ด NodeMCUและ WeMos ก็ไม่จำเป็นต้องใช้เจ้าตัวนี้ครับ
 
