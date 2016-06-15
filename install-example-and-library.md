@@ -69,7 +69,7 @@
 | Library | by | current version |
 | -- | -- | -- |
 | Adafruit NeoPixel | Adafruit | 1.0.5 |
-| 0:3 | 1:3 | 2:3 |
+| ArduinoJson | Benoit Blanchon | 5.5.0 |
 | 0:4 | 1:4 | 2:4 |
 
 
