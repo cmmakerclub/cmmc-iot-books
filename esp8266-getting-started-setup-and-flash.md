@@ -121,9 +121,11 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 ![](images/introduction19.JPG)
 
-* ในช่องค้นหาใส่ 
+* ในช่องค้นหาใส่ Library ที่ต้องการเพิ่ม ในที่นี้จะค้นหา Library ของ ESPert ตามรูปที่เน้นคำและ คลิกเลือกโปรแกรมที่ค้นหา
 
 ![](images/introduction20.JPG)
+
+  * เลือก
 
 ![](images/introduction21.JPG)
 
