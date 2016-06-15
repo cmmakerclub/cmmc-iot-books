@@ -67,11 +67,11 @@
 * PubSubClient by Nick O'Leary (current version 2.6.0)
 
 | Library                         | by       | current version |
-| --                              | --       | --    |
-| Adafruit NeoPixel               | Adafruit | 1.0.5 |
-| ArduinoJson                     | Benoit Blanchon | 5.5.0 |
-| DHT sensor library              | Adafruit | 1.2.3 |
-| ESP8266 Oled Driver for SSD1306 | Daniel Eichborn | 3.0.0 |
+| --                              | --       | --              |
+| Adafruit NeoPixel               | Adafruit | 1.0.5           |
+| ArduinoJson                     | Benoit Blanchon | 5.5.0    |
+| DHT sensor library              | Adafruit | 1.2.3           |
+| ESP8266 Oled Driver for SSD1306 | Daniel Eichborn | 3.0.0    |
 | DHT sensor library | Adafruit | 1.2.3 |
 
 
