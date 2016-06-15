@@ -9,53 +9,53 @@
 
 1.ติดตั้ง Arduino IDE เวอร์ชั้น 1.6.5 หรือ ใหม่กว่า โดย Arduino IDE สามารถ Support  Windows Mac OS X Linux ทั้ง 32bit และ 64 bit ซึ่งหา Download ตัวติดตั้งได้จาก [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
 
-![](images/introduction1.JPG)
+![ดาวน์โหลด Arduino IDE เวอร์ชั่นล่าสุด](images/introduction1.JPG)
  
 
 สำหรับการติดตั้ง Arduino IDE บน Windows จะมีแบบให้เลือกทั้ง แตกไฟล์ใช้ได้เลย (ZIP file for non admin install)หรือ ติดตั้งเหมือน โปรแกรมทั่วๆไป (Installer) หากติดตั้งเรียบร้อยแล้ว ให้เปิด Arduino IDE ขึ้นมาจะได้หน้าตาแบบนี้เลยครับ
 
-![](images/introduction2.png)
+![หน้าต่างเริ่มต้นโปรแกรม Arduino](images/introduction2.png)
 
-![](images/introduction3.JPG)
+![หน้าต่างหลังเปิดใช้งาน Arduino IDE 1.6.9 ครั้งแรก](images/introduction3.JPG)
 
 2.ติดตั้ง Broad ESP8266 ลงบน Arduino IDE
   * กดเลือก Menu ไปที่ **File** >> **Preferences**
   
-![](images/introduction4.png)
+![เข้าเมนู File >> Preferences](images/introduction4.png)
 
   * จะขึ้นหน้าต่าง Preferences  ให้สังเกตุในช่อง Additional Board Manger URLs:
  
-  ![](images/introduction5.JPG)
+  ![หน้าต่าง Preferences](images/introduction5.JPG)
   
   ในส่วนของ Additional Board Manger  บทความนี้ผมจะใช้ Boards Manager ของ Community ESP8266
   
-![](images/introduction6.JPG)
+![ใช้ Stable Version ](images/introduction6.JPG)
   * ใส่ URL >> ลงใน Addition Board Manager URLs: ดังนี้ [http://arduino.esp8266.com/stable/package_esp8266com_index.json](https://github.com/esp8266/Arduino)
   
-  ![](images/introduction7.JPG)
+  ![วาง Link ลงใน Boards Manager URLs:](images/introduction7.JPG)
   
   จากนั้นกด OK
 
   * ไปที่ Menu Tools >> Boar: “Arduino…” >> Board Manager…
   
-   ![](images/introduction8.JPG)
+   ![เลือก Boards Manager...](images/introduction8.JPG)
 
 * จะขึ้นหน้าต่าง Boards Manager เลือก Type เป็น Contributed
   
-  ![](images/introduction9.JPG)
+  ![หน้าต่าง Boards Manager](images/introduction9.JPG)
   
   * จะแสดง Boards ของ ESP8266 เลือกเวอร์ชัน 2.2.0 หรือใหม่กว่าในอนาคต Boards และกด Install 
 
-  ![](images/introduction10.JPG)
+  ![Install Board ESP8266](images/introduction10.JPG)
   
   * แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 150 MB และติดตั้งให้เอง
   
-  ![](images/introduction11.JPG)
+  ![Download Boards ESP8266](images/introduction11.JPG)
   
   เมื่อเราติดตั้งบอร์ด ESP8266 เสร็จเรียบร้อยแล้ว ให้ปิดโปรแกรม Arduino IDE ก่อน แล้วจึงเปิดขึ้นมาใหม่
   * เมื่อเปิดโปรแกรม Arduino IDE ขึ้นมาใหม่แล้ว ให้ลองเลือกไปที่ Menu Tools >> Board: “…..” ซึ่งจะพบว่า มี Menu สำหรับเลือกใช้งาน ESP8266 กับ Arduino IDE ขึ้นมาให้เลือกใช้งานแล้วครับ
 
-![](images/introduction12.JPG)
+![Board ESP8266 ถูกเพิ่มเข้ามา](images/introduction12.JPG)
 
   ซึ่ง หมวดของ ESP8266 Modules นั้นจะมีบอร์ดให้เลือกใช้งานอยู่ด้วยกันหลายบอร์ด ที่มีจำหน่ายทั่ว ๆ ไป เช่น
   
@@ -72,8 +72,8 @@
 
  ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
 
-2.ESPresso Lite 1.0 และ 2.0 ![](images/introduction13.png)
-![](images/introduction14.JPG)
+2.ESPresso Lite 1.0 และ 2.0 ![ESPresso Lite V1](images/introduction13.png)
+![ESPresso Lite V2](images/introduction14.JPG)
 
 
 3.NodeMCU
@@ -81,7 +81,7 @@
 
 4.WeMos
 
-![](images/introduction15.JPG)
+![WeMos](images/introduction15.JPG)
 
 เพียงเท่านี้เราก็สามารถใช้งาน Board ESP8266 บน Arduino IDE ได้ครบแล้วครับ
 
@@ -106,7 +106,7 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 2. การเพิ่ม Library โดยวิธี Add.ZIP Library...
 
 โดยการเลือกใช้งาน เมนู Sketch >> Include Library >> ... ดังรูป
- ![](images/introduction17.JPG)
+ ![หน้าต่างการเพิ่ม Library](images/introduction17.JPG)
 
 
 **1. การเพิ่ม Library โดยวิธี Manage Libraries...**
@@ -119,11 +119,11 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 * โดยการเลือกใช้งานเมนูSketch >> Include Library >> Manage Libraries
 
-![](images/introduction18.JPG)
+![เลือกเมนู Manage Library](images/introduction18.JPG)
 
 * โปรแกรมจะแสดงหน้าต่างใหม่ขึ้นมาดังรูป
 
-![](images/introduction19.JPG)
+![หน้าต่าง Library Manager](images/introduction19.JPG)
 
 * ในช่องค้นหาใส่ Library ที่ต้องการเพิ่ม ในที่นี้จะค้นหา Library ของ ESPert ตามรูปที่เน้นคำและ คลิกเลือกโปรแกรมที่ค้นหา
 
