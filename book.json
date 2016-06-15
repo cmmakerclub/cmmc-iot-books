@@ -1,9 +1,16 @@
 {
-  "plugins": ["gist", "ga", "image-captions"],
-   "pluginsConfig": {
-      "ga": {  "token": "UA-XXXX-Y" },
-       "image-captions": {
-          "caption": "_CAPTION_"
-      }
+    "plugins": [
+        "gist",
+        "ga",
+        "image-captions",
+        "json"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-XXXX-Y"
+        },
+        "image-captions": {
+            "caption": "_CAPTION_"
+        }
     }
 }
