@@ -3,7 +3,7 @@
    "pluginsConfig": {
       "ga": {  "token": "UA-XXXX-Y" },
        "image-captions": {
-          "caption": "Image - _CAPTION_"
+          "caption": "_CAPTION_"
       }
     }
 }
