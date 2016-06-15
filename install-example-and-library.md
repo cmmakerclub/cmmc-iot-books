@@ -67,7 +67,7 @@
 * PubSubClient by Nick O'Leary (current version 2.6.0)
 
 | Library | by | current version |
-| -- | -- | -- |
+| --                | --       | --    |
 | Adafruit NeoPixel | Adafruit | 1.0.5 |
 | ArduinoJson | Benoit Blanchon | 5.5.0 |
 | 0:4 | 1:4 | 2:4 |
