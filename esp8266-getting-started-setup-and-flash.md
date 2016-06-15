@@ -151,3 +151,14 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 ![โปรแกรมตัวอย่างที่เพิ่มเข้ามา](images/introduction25.JPG)
 
+
+**Library ที่จำเป็นกับ ESPresso Lite V2.0**
+
+* Adafruit NeoPixel by Adafruit (current version 1.0.5)
+* ArduinoJson by Benoit Blanchon (current version 5.5.0)
+* DHT sensor library by Adafruit (current version 1.2.3)
+* ESP8266 Oled Driver for SSD1306 display by Daniel Eichborn (current version 3.0.0)
+* HttpClient by Adrian McEwen (current version 2.2.0)
+* PubSubClient by Nick O'Leary (current version 2.6.0)
+
+ควรอัพเดท Board Manager และ Library ให้เป็นเวอร์ชันล่าสุดอยู่เสมอ
