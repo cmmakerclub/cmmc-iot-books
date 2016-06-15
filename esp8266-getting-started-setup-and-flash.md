@@ -121,7 +121,7 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 ![](images/introduction19.JPG)
 
-* asdasd
+* ในช่องค้นหาใส่ 
 
 ![](images/introduction20.JPG)
 
