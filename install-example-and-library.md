@@ -70,7 +70,7 @@
 | --                | --       | --    |
 | Adafruit NeoPixel | Adafruit | 1.0.5 |
 | ArduinoJson | Benoit Blanchon | 5.5.0 |
-| 0:4 | 1:4 | 2:4 |
+| DHT sensor library | Adafruit | 2:4 |
 
 
 ควรอัพเดท Board Manager และ Library ให้เป็นเวอร์ชันล่าสุดอยู่เสมอ
