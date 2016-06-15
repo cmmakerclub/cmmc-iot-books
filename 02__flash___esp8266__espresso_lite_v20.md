@@ -8,7 +8,7 @@
 
 2.ตัว flash ใช้ FT232 เชื่อมต่อแบบ UART ถ้าใช้ บอร์ด NodeMCUและ WeMos ก็ไม่จำเป็นต้องใช้เจ้าตัวนี้ครับ
 
-![FTDI](images/introduction16.JPG)
+![FTDI - FT232](images/introduction16.JPG)
 
 FTDI หรือ FT232 เป็น ตัวเชื่อมต่อสื่อสาร ระหว่าง คอมพิวเตอร์กับ บอร์ด ESPresso Lite V2.0 มีเพียงตัวนี้ก็สามารถ อัพโหลดโปรแกรม หรือ Debug โปรแกรมของ ESPresslite ได้ทุกตัว
 
