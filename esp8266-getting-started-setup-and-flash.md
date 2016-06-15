@@ -1,6 +1,11 @@
 # ติดตั้ง Arduino IDE กับ ESP8266และ โปรแกรมตัวอย่าง Library
 
-**ขั้นตอนการติดตั้ง Arduino IDE กับ ESP8266**
+
+### ขั้นตอนการติดตั้ง Arduino IDE กับ ESP8266
+
+
+
+การติดตั้ง Arduino IDE กับ ESP8266 คือการติดตั้งโปรแกรมเพื่อใช้ในการเขียนโปรแกรมให้กับบอร์ด ESP8266 หรือบอร์ดอื่น ๆ ผ่านทาง Arduino ใช้ภาษาหลักการของภาษา C++ ครอบด้วยภาษาของ Aruino เพื่อให้การเขียนโปรแกรมมีความง่ายมากยิ่งขึ้น
 
 1.ติดตั้ง Arduino IDE เวอร์ชั้น 1.6.5 หรือ ใหม่กว่า โดย Arduino IDE สามารถ Support  Windows Mac OS X Linux ทั้ง 32bit และ 64 bit ซึ่งหา Download ตัวติดตั้งได้จาก [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
 
@@ -33,18 +38,18 @@
   จากนั้นกด OK
 
   * ไปที่ Menu Tools >> Boar: “Arduino…” >> Board Manager…
-  * 
+  
    ![](images/introduction8.JPG)
 
-  จะขึ้นหน้าต่าง Boards Manager เลือก Type เป็น Contributed
+* จะขึ้นหน้าต่าง Boards Manager เลือก Type เป็น Contributed
   
   ![](images/introduction9.JPG)
   
   * จะแสดง Boards ของ ESP8266 เลือกเวอร์ชัน 2.2.0 หรือใหม่กว่าในอนาคต Boards และกด Install 
-  * 
+
   ![](images/introduction10.JPG)
   
-  แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 150 MB และติดตั้งให้เอง
+  * แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 150 MB และติดตั้งให้เอง
   
   ![](images/introduction11.JPG)
   
@@ -68,14 +73,12 @@
 
  ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
 
-2.ESPresso Lite 1.0 และ 2.0 
-
-![](images/introduction13.png)
+2.ESPresso Lite 1.0 และ 2.0 ![](images/introduction13.png)
 ![](images/introduction14.JPG)
 
-3.NodeMCU 
 
- ![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
+3.NodeMCU
+![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
 
 4.WeMos
 
@@ -93,6 +96,46 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 ชมรมเชียงใหม่เมกเกอร์คลับ 81/21-25 ถ.อารักษ์ ต.สุเทพ อ.เมืองเชียงใหม่ จ.เชียงใหม่ 50200 [Map](https://www.google.com/maps?ll=18.783329,98.978965&z=19&t=m&hl=th&gl=TH&mapclient=embed&cid=5283136291489251162)
 
 
-**ขั้นตอนการติดตั้งโปรแกรมตัวอย่าง Library**
 
-1.ใช้โปรแกรมตัวอย่างจาก Library ของ ESPert ในการ
+### ขั้นตอนการติดตั้งโปรแกรมตัวอย่าง Library
+
+
+
+การติดตั้งโปรแกรมตัวอย่าง คือ การลงโปรแกรมเสริม หรือ Code สำหรับใช้งานกับ Shield โมดูล หรือ เซนเซอร์ต่าง ๆ ที่ผู้พัฒนาได้มีการพัฒนาให้บอร์ดสามารถใช้งานได้กับอุปกรณ์ต่าง ๆ ที่มีออกมาจำหน่ายอย่างต่อเนื่องซึ่งจำเป็นกับผู้เริ่มต้น เนื่องจากทำให้ผู้ใช้งานประหยัดเวลา มีความสะดวกและ ง่ายมากยิ่งขึ้นในการพัฒนา โดยมีการเพิ่ม Library อยู่ 2 แบบหลักคือ 
+
+1. การเพิ่ม Library โดยวิธี Manage Libraries...
+2. การเพิ่ม Library โดยวิธี Add.ZIP Library...
+
+โดยการเลือกใช้งาน เมนู Sketch >> Include Library >> ... ดังรูป
+ ![](images/introduction17.JPG)
+
+
+**1. การเพิ่ม Library โดยวิธี Manage Libraries...**
+เป็นการเพิ่ม Library โดยตรงจากเซิฟเวอร์ของทาง Arduino ซึ่ง Manage Libraries จากผู้พัฒนาก่อนจะถูกอัพขึ้นเซิฟเวอร์ของ Arduino จะมีคนคอยตรวจสอบก่อนเสมอ จึงเป็นสากลมากกว่าการลงแบบ Manual และใช้งานได้จริง
+
+* ทดลองลงโปรแกรมตัวอย่างจาก Library ของ ESPert แบบ Manage Libraries... จะมีลักษณะคล้ายกับการลง Broad ESP8266 ข้างต้น
+* โดยการเลือกใช้งานเมนูSketch >> Include Library >> Manage Libraries
+
+![](images/introduction18.JPG)
+
+* โปรแกรมจะแสดงหน้าต่างใหม่ขึ้นมาดังรูป
+
+![](images/introduction19.JPG)
+
+* ในช่องค้นหาใส่ Library ที่ต้องการเพิ่ม ในที่นี้จะค้นหา Library ของ ESPert ตามรูปที่เน้นคำและ คลิกเลือกโปรแกรมที่ค้นหา
+
+![](images/introduction20.JPG)
+
+  * เลือก Version ล่าสุด หรือ ในขณะนี้อัพเดทล่าสุดที่ Version 1.2.5 
+
+![](images/introduction21.JPG)
+
+  * กดปุ่ม Install เพื่อเริ่มติดตั้ง Library ลงบน Arduino IDE
+
+![](images/introduction22.JPG)
+
+![](images/introduction23.JPG)
+
+![](images/introduction24.JPG)
+
+![](images/introduction25.JPG)
