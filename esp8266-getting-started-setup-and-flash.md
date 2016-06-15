@@ -108,7 +108,9 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 2. การเพิ่ม Library โดยวิธี Add.ZIP Library...![](images/introduction17.JPG)
 3. vghghvghvg
 4. sfdsf
-  5. 
+  5. VVHVHVGHVGH
+  6. BJBHJBHJ
+  7. 
 
 **1.การเพิ่ม Library โดยวิธี Manage Libraries...**
 เป็นการเพิ่ม Library โดยตรงจากเซิฟเวอร์ของทาง Arduino ซึ่ง Manage Libraries จากผู้พัฒนาก่อนจะถูกอัพขึ้นเซิฟเวอร์ของ Arduino จะมีคนคอยตรวจสอบก่อนเสมอ จึงเป็นสากลมากกว่าการลงแบบ Manual และใช้งานได้จริง
