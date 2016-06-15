@@ -112,7 +112,7 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 **1. การเพิ่ม Library โดยวิธี Manage Libraries...**
 เป็นการเพิ่ม Library โดยตรงจากเซิฟเวอร์ของทาง Arduino ซึ่ง Manage Libraries จากผู้พัฒนาก่อนจะถูกอัพขึ้นเซิฟเวอร์ของ Arduino จะมีคนคอยตรวจสอบก่อนเสมอ จึงเป็นสากลมากกว่าการลงแบบ Manual และใช้งานได้จริง
 
-* ทดลองลงโปรแกรมตัวอย่างจาก Library ของ ESPert แบบ Manage Libraries...
+* ทดลองลงโปรแกรมตัวอย่างจาก Library ของ ESPert แบบ Manage Libraries... จะมีลักษณะคล้ายกับการลง Broad ESP8266 ข้างต้น
 * โดยการเลือกใช้งานเมนูSketch >> Include Library >> Manage Libraries
 
 ![](images/introduction18.JPG)
@@ -125,9 +125,11 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 ![](images/introduction20.JPG)
 
-  * เลือก
+  * เลือก Version ล่าสุด หรือ ในขณะนี้อัพเดทล่าสุดที่ Version 1.2.5 
 
 ![](images/introduction21.JPG)
+
+  * กดปุ่ม Install เพื่อเริ่มติดตั้ง Library ลงบน Arduino IDE
 
 ![](images/introduction22.JPG)
 
