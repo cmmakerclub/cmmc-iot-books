@@ -127,22 +127,27 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 * ในช่องค้นหาใส่ Library ที่ต้องการเพิ่ม ในที่นี้จะค้นหา Library ของ ESPert ตามรูปที่เน้นคำและ คลิกเลือกโปรแกรมที่ค้นหา
 
-![](images/introduction20.JPG)
+![ค้าหาโปรแกรมตัวอย่าง ESPert](images/introduction20.JPG)
 
  * เลือก Version ล่าสุด หรือ ในขณะนี้อัพเดทล่าสุดที่ Version 1.2.5 
 
-![](images/introduction21.JPG)
+![เลือกเวอร์ชันโปรแกรมตัวอย่างล่าสุด](images/introduction21.JPG)
 
   * กดปุ่ม Install เพื่อเริ่มติดตั้ง Library ลงบน Arduino IDE
 
-![](images/introduction22.JPG)
+![กด Install โปรแกรมตัวอย่าง](images/introduction22.JPG)
 
   * โปรแกรมจะทำการติดตั้ง Library อัตโนมัติจาก Sever ผ่าน Internet
 
-![](images/introduction23.JPG)
+![ดาวน์โหลดโปรแกรมตัวอย่างอัตโนมัติ](images/introduction23.JPG)
 
-* 
+* โปรแกรมจะแสดงข้อความ INSTALLED ตรงไฮไลท์ตามรูปแสดงว่าเพิ่มโปรแกรมตัวอย่างเรียบร้อยแล้ว
 
-![](images/introduction24.JPG)
+![หน้าต่างแสดงการทำงานสมบูรณ์](images/introduction24.JPG)
 
-![](images/introduction25.JPG)
+* การเรียกใช้งานโปรแกรมตัวอย่างโดยเข้าไปที่
+    
+    File >> Examples >> ESPert >> ....
+
+![โปรแกรมตัวอย่างที่เพิ่มเข้ามา](images/introduction25.JPG)
+
