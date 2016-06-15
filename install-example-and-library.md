@@ -66,4 +66,11 @@
 * HttpClient by Adrian McEwen (current version 2.2.0)
 * PubSubClient by Nick O'Leary (current version 2.6.0)
 
+| Library | by | current version |
+| -- | -- | -- |
+| Adafruit NeoPixel | Adafruit | 1.0.5 |
+| 0:3 | 1:3 | 2:3 |
+| 0:4 | 1:4 | 2:4 |
+
+
 ควรอัพเดท Board Manager และ Library ให้เป็นเวอร์ชันล่าสุดอยู่เสมอ
