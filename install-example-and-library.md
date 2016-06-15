@@ -8,7 +8,7 @@
 2. การเพิ่ม Library โดยวิธี Add.ZIP Library...
 
 โดยการเลือกใช้งาน เมนู Sketch >> Include Library >> ... ดังรูป
- ![หน้าต่างการเพิ่ม Library](images/introduction17.JPG)
+ ![Sketch >> Include Library >> ](images/introduction17.JPG)
 
 
 **1. การเพิ่ม Library โดยวิธี Manage Libraries...**
