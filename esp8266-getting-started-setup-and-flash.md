@@ -37,18 +37,18 @@
   จากนั้นกด OK
 
   * ไปที่ Menu Tools >> Boar: “Arduino…” >> Board Manager…
-  * 
+  
    ![](images/introduction8.JPG)
 
-  จะขึ้นหน้าต่าง Boards Manager เลือก Type เป็น Contributed
+* จะขึ้นหน้าต่าง Boards Manager เลือก Type เป็น Contributed
   
   ![](images/introduction9.JPG)
   
   * จะแสดง Boards ของ ESP8266 เลือกเวอร์ชัน 2.2.0 หรือใหม่กว่าในอนาคต Boards และกด Install 
-  * 
+
   ![](images/introduction10.JPG)
   
-  แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 150 MB และติดตั้งให้เอง
+  * แล้วรอ สัก 2-3 ครู่ ตัวโปรแกรมจะโหลด Boards ESP8266 ให้ ขนาดไฟล์ประมาณ 150 MB และติดตั้งให้เอง
   
   ![](images/introduction11.JPG)
   
@@ -72,14 +72,12 @@
 
  ![ESP8266-ESP01](https://i2.wp.com/farm1.staticflickr.com/499/19170613322_166b6e9075_z.jpg?zoom=2&resize=474%2C312&ssl=1)
 
-2.ESPresso Lite 1.0 และ 2.0 
-
-![](images/introduction13.png)
+2.ESPresso Lite 1.0 และ 2.0 ![](images/introduction13.png)
 ![](images/introduction14.JPG)
 
-3.NodeMCU 
 
- ![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
+3.NodeMCU
+![ESP8266-NodeMCU V2](https://i1.wp.com/farm4.staticflickr.com/3943/19170544672_0f25c6ae15_z.jpg?zoom=2&resize=474%2C355&ssl=1)
 
 4.WeMos
 
@@ -102,20 +100,37 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 
 
-การติดตั้งโปรแกรมตัวอย่าง คือ การลงโปรแกรมเสริม หรือ Code สำหรับใช้งานกับ Shield โมดูล หรือ เซนเซอร์ต่าง ๆ ที่ผู้พัฒนาได้มีการพัฒนาให้บอร์ดสามารถใช้งานได้กับอุปกรณ์ต่าง ๆ ที่มีออกมาจำหน่ายอย่างต่อเนื่องซึ่งจำเป็นกับผู้เริ่มต้น เนื่องจากทำให้ผู้ใช้งานประหยัดเวลา มีความสะดวกและ ง่ายมากยิ่งขึ้นในการพัฒนา โดยมีการเพิ่ม Library อยู่ 2 แบบ หลักคือ 
+การติดตั้งโปรแกรมตัวอย่าง คือ การลงโปรแกรมเสริม หรือ Code สำหรับใช้งานกับ Shield โมดูล หรือ เซนเซอร์ต่าง ๆ ที่ผู้พัฒนาได้มีการพัฒนาให้บอร์ดสามารถใช้งานได้กับอุปกรณ์ต่าง ๆ ที่มีออกมาจำหน่ายอย่างต่อเนื่องซึ่งจำเป็นกับผู้เริ่มต้น เนื่องจากทำให้ผู้ใช้งานประหยัดเวลา มีความสะดวกและ ง่ายมากยิ่งขึ้นในการพัฒนา โดยมีการเพิ่ม Library อยู่ 2 แบบหลักคือ 
 
 1. การเพิ่ม Library โดยวิธี Manage Libraries...
-2. การเพิ่ม Library โดยวิธี Add.ZIP Library...![](images/introduction17.JPG)
-3. vghghvghvg
-4. sfdsf
-  5. VVHVHVGHVGH
-  6. BJBHJBHJ
-7. SDFSDFSD
+2. การเพิ่ม Library โดยวิธี Add.ZIP Library...
+
+โดยการเลือกใช้งาน เมนู Sketch >> Include Library >> ... ดังรูป
+ ![](images/introduction17.JPG)
 
 
-**1.การเพิ่ม Library โดยวิธี Manage Libraries...**
+**1. การเพิ่ม Library โดยวิธี Manage Libraries...**
 เป็นการเพิ่ม Library โดยตรงจากเซิฟเวอร์ของทาง Arduino ซึ่ง Manage Libraries จากผู้พัฒนาก่อนจะถูกอัพขึ้นเซิฟเวอร์ของ Arduino จะมีคนคอยตรวจสอบก่อนเสมอ จึงเป็นสากลมากกว่าการลงแบบ Manual และใช้งานได้จริง
 
-ทดลองลงโปรแกรมตัวอย่างจาก Library ของ ESPert แบบ Manage Libraries...
+* ทดลองลงโปรแกรมตัวอย่างจาก Library ของ ESPert แบบ Manage Libraries...
+* โดยการเลือกใช้งานเมนูSketch >> Include Library >> Manage Libraries
 
 ![](images/introduction18.JPG)
+
+* โปรแกรมจะแสดงหน้าต่างใหม่ขึ้นมาดังรูป
+
+![](images/introduction19.JPG)
+
+* asdasd
+
+![](images/introduction20.JPG)
+
+![](images/introduction21.JPG)
+
+![](images/introduction22.JPG)
+
+![](images/introduction23.JPG)
+
+![](images/introduction24.JPG)
+
+![](images/introduction25.JPG)
