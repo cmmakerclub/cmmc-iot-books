@@ -61,7 +61,7 @@
 
 
 | Library                         | by              | current version |
-| --------------------------------| --------------- | --------------- |
+| ------------------------------- | --------------- | --------------- |
 | Adafruit NeoPixel               | Adafruit        | 1.0.5    |
 | ArduinoJson                     | Benoit Blanchon | 5.5.0    |
 | DHT sensor library              | Adafruit        | 1.2.3    |
