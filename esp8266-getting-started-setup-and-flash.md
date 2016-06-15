@@ -9,7 +9,7 @@
 
 1.ติดตั้ง Arduino IDE เวอร์ชั้น 1.6.5 หรือ ใหม่กว่า โดย Arduino IDE สามารถ Support  Windows Mac OS X Linux ทั้ง 32bit และ 64 bit ซึ่งหา Download ตัวติดตั้งได้จาก [https://www.arduino.cc/en/main/software](https://www.arduino.cc/en/main/software)
 
-![เลือกดาวน์โหลด Arduino IDE](images/introduction1.JPG)
+![](images/introduction1.JPG)
  
 
 สำหรับการติดตั้ง Arduino IDE บน Windows จะมีแบบให้เลือกทั้ง แตกไฟล์ใช้ได้เลย (ZIP file for non admin install)หรือ ติดตั้งเหมือน โปรแกรมทั่วๆไป (Installer) หากติดตั้งเรียบร้อยแล้ว ให้เปิด Arduino IDE ขึ้นมาจะได้หน้าตาแบบนี้เลยครับ
@@ -20,7 +20,6 @@
 
 2.ติดตั้ง Broad ESP8266 ลงบน Arduino IDE
   * กดเลือก Menu ไปที่ **File** >> **Preferences**
-
   
 ![](images/introduction4.png)
 
@@ -113,7 +112,11 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 **1. การเพิ่ม Library โดยวิธี Manage Libraries...**
 เป็นการเพิ่ม Library โดยตรงจากเซิฟเวอร์ของทาง Arduino ซึ่ง Manage Libraries จากผู้พัฒนาก่อนจะถูกอัพขึ้นเซิฟเวอร์ของ Arduino จะมีคนคอยตรวจสอบก่อนเสมอ จึงเป็นสากลมากกว่าการลงแบบ Manual และใช้งานได้จริง
 
-* ทดลองลงโปรแกรมตัวอย่างจาก Library ของ ESPert แบบ Manage Libraries... จะมีลักษณะคล้ายกับการลง Broad ESP8266 ข้างต้น
+* ทดลองลงโปรแกรมตัวอย่างจาก Library ของ ESPert แบบ Manage Libraries... จะมีลักษณะคล้ายกับการลง Broad ESP8266 ข้างต้น 
+
+      ซึ่ง "จำเป็นต้องเชื่อมต่อคอมพิวเตอร์กับ Internet ก่อนการเพิ่ม Library โดยวิธีนี้เสมอ"
+
+
 * โดยการเลือกใช้งานเมนูSketch >> Include Library >> Manage Libraries
 
 ![](images/introduction18.JPG)
@@ -126,7 +129,7 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 ![](images/introduction20.JPG)
 
-  * เลือก Version ล่าสุด หรือ ในขณะนี้อัพเดทล่าสุดที่ Version 1.2.5 
+ * เลือก Version ล่าสุด หรือ ในขณะนี้อัพเดทล่าสุดที่ Version 1.2.5 
 
 ![](images/introduction21.JPG)
 
@@ -134,7 +137,11 @@ Pinn Creative Space สาขา The shoppes grand rama 9 ชั้น 2[ Map](h
 
 ![](images/introduction22.JPG)
 
+  * โปรแกรมจะทำการติดตั้ง Library อัตโนมัติจาก Sever ผ่าน Internet
+
 ![](images/introduction23.JPG)
+
+* 
 
 ![](images/introduction24.JPG)
 
