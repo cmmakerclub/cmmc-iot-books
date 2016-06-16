@@ -22,5 +22,5 @@
 * [ระบบไฟล์ (File System)](file_system.md)
 * [ESP8266 do HTTP Get](esp8266_do_http_get.md)
 * [การเชื่อมต่อ Cloud Service](connecting_cloud_service.md)
-   * HTTP Get
+   * [HTTP Get](connect_service_using_http_get.md)
 
