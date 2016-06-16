@@ -3,5 +3,5 @@
 
 ![](images/React-native.png)
 
-ขั้นตอนการติดตั้ง React-Native
-
+React Native คืออะไร ? 
+  React Native มันคือ Framework ชนิดหนึ่งที่มีความสามารถในการสร้าง App Android และ iOS แล้วเจ้าตัว React-Native มันดีอย่างไรหล่ะ?  เดี๋ยวเราไปดูกันคระบ
