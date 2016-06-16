@@ -6,4 +6,4 @@
 
 พิมพ์ WebSocket และเลือกของ Markus Sattier และกด Install
 
-![](install-websocket.png)
+![พิมพ์ WebSocket ลงในช่อง](install-websocket.png)
