@@ -18,10 +18,10 @@
 * [การส่งค่าขึ้น Cloud Service](connecting_cloud_service.md)
    * [HTTP Get](connect_service_using_http_get.md)
    * [MQTT](connecting_cloud_mqtt.md)
+* การเชื่อมต่อ Cloud Service
 * [ESPert.io](chapter1.md)
 * [การตั้งค่า Push Notification ใน ESPert.io](pushnotification_md.md)
    * [การสมัครสมาชิก ESPert.io](espertio.md)
    * [การตั้งค่าใน Android Application](espertio_android_application.md)
 * [ระบบไฟล์ (File System)](file_system.md)
-* การเชื่อมต่อ Cloud Service
 
