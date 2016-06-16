@@ -15,7 +15,7 @@
        * [WebServer ใน AP Mode](webserver_ap_mode.md)
        * [WebServer ใน STA Mode](webserver_sta_mode.md)
    * [Serve Static Files](webserver_serve_static_files.md)
-* [การเชื่อมต่อ Cloud Service](connecting_cloud_service.md)
+* [การส่งค่าขึ้น Cloud Service](connecting_cloud_service.md)
    * [HTTP Get](connect_service_using_http_get.md)
    * [MQTT](connecting_cloud_mqtt.md)
 * [ESPert.io](chapter1.md)
