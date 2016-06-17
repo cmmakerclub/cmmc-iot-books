@@ -3,7 +3,8 @@
         "gist",
         "ga",
         "image-captions",
-        "json"
+        "json",
+        "youtube"
     ],
     "pluginsConfig": {
         "ga": {
