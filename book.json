@@ -4,7 +4,8 @@
         "ga",
         "image-captions",
         "json",
-        "video"
+        "video",
+        "-highlight"
     ],
     "pluginsConfig": {
         "ga": {
