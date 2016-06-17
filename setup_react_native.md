@@ -7,6 +7,6 @@ React Native คืออะไร ?
 React Native มันคือ Framework ชนิดหนึ่งที่มีความสามารถในการสร้าง App Android และ iOS แล้วเจ้าตัว React-Native มันดีอย่างไรหล่ะ? เดี๋ยวเราไปดูกัน
 
 
-{%video%} https://www.youtube.com/watch?v=juWhxCz1Wmg {% endvideo%}
+{% video %} https://www.youtube.com/watch?v=juWhxCz1Wmg {% endvideo %}
 
 
