@@ -4,7 +4,7 @@
         "ga",
         "image-captions",
         "json",
-        "youtube"
+        "video"
     ],
     "pluginsConfig": {
         "ga": {
