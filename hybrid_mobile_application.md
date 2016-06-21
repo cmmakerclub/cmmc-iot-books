@@ -1,4 +1,3 @@
 # Hybrid Mobile Application
 
-coming soon
-
+coming soon :)
